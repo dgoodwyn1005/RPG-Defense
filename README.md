@@ -13,6 +13,11 @@ Fight off relentless enemies, strategically place towers, and survive dynamic da
 8-Directional Player Movement
 Smooth and responsive movement in all directions.
 
+Upgradeable Player Stats
+To build upon self as game progresses
+
+![Screenshot](/Screenshot_UpgradeMenu)
+
 Multiple Attack Methods:
 
   Melee combat
@@ -25,11 +30,15 @@ Place towers that automatically track and shoot enemies.
 8+ Enemy Types
 Each with unique movement and attack patterns.
 
+![Gameplay Screenshot](/Screenshot)
+
 Dynamic Day & Night System
 Gameplay changes based on time of day.
 
 Complete Sound System
 Full audio experience with user-controlled sound settings.
+
+![Screenshot](/Screenshot_OptionsMenu)
 
 ⚠️ Known Issues
 
