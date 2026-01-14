@@ -30,7 +30,7 @@ Place towers that automatically track and shoot enemies.
 8+ Enemy Types
 Each with unique movement and attack patterns.
 
-![Gameplay Screenshot](/Screenshot)
+![Gameplay Screenshot](/Screenshot_Gameplay)
 
 Dynamic Day & Night System
 Gameplay changes based on time of day.
